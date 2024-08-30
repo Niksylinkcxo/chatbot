@@ -1,2 +1,3 @@
 streamlit==1.34.0
 llama-index==0.11.1
+llama_index.llms.gemini==0.3.4
